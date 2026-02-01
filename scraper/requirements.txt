@@ -2,3 +2,4 @@ apify-client
 openai
 pandas
 tenacity
+python-dotenv
