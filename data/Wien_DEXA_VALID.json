@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Diagnosezentrum med22",
+    "website": "https://www.dzmed22.at/",
+    "google_category": "Radiologe",
+    "domain": "dzmed22.at",
+    "address": "Stadlauer Str. 62, 1220 Wien, Österreich",
+    "phone": "+43 1 2022434",
+    "lat": 48.2308419,
+    "lng": 16.4577148,
+    "status": "YES",
+    "evidence_quote": "Ganzkörper DEXA Messung zur Bestimmung des Körperfettes und des Skelettmuskelindex Die Untersuchung ist erst ab einem Lebensalter von 20 Jahren möglich. Mit dieser Untersuchung wird die Zusammensetzung Ihres Körpergewebes bestimmt: In den letzten Jahren wurde vermehrt darüber geforscht, dass im Alter nicht nur die Dichte der Knochen abnimmt (Osteoporose) sondern auch die Skelettmuskelmasse. Im Unterschied zum Body-Mass Index wird bei dem Skelettmuskelindex nur die Muskelmasse bestimmt und der Fettanteil extra ausgewiesen. Die Ganzkörper DEXA Messung ist eine gute Bestandsaufnahme Ihres Körpers. Mit Hilfe dieser Messung kann auch der Erfolg eines Trainingsprogramms oder einer Diät beobachtet werden."
+  },
+  {
+    "name": "Radiologie Währing - Prof. Pokieser",
+    "website": "http://www.radiologiewaehring.at/",
+    "google_category": "Radiologe",
+    "domain": "radiologiewaehring.at",
+    "address": "Währinger Str. 138, 1180 Wien, Österreich",
+    "phone": "+43 1 4706862",
+    "lat": 48.2271974,
+    "lng": 16.3398922,
+    "status": "YES",
+    "evidence_quote": "Der DXA Bodyscan ist eine wissenschaftlich fundierte Methode zur Analyse der Körpergewebszusammensetzung. Dank modernster Analysetechnik bieten wir eine exakte Körperzusammensetzungsanalyse, die Ihnen hilft, Ihre Gesundheits- und Fitnessziele gezielt zu erreichen. Genaue Bestimmung des Körperfettanteils, Differenzierung zwischen Fettmasse, Magermasse und Total Body Composition (TBC) – Gesamtkörperzusammensetzung – Verhältnis von Mager-, Fett- und Knochenmasse."
+  },
+  {
+    "name": "Rudolfinerhaus Privatklinik GmbH",
+    "website": "https://www.rudolfinerhaus.at/",
+    "google_category": "Privates Krankenhaus",
+    "domain": "rudolfinerhaus.at",
+    "address": "Billrothstraße 78, 1190 Wien, Österreich",
+    "phone": "+43 1 360360",
+    "lat": 48.2437063,
+    "lng": 16.3472652,
+    "status": "YES",
+    "evidence_quote": "Außerdem kann das neue Gerät einen Full-Body-Scan durchführen, der die Fett- und Muskelzusammensetzung des Körpers misst. Hierbei wird der gesamte Körper über eine Scandauer von ca. 6 Minuten abgefahren, um die Muskel-Fett-Verteilung messen zu können."
+  },
+  {
+    "name": "Diagnosezentrum Meidling",
+    "website": "https://diagnostikum.at/de/locations/diagnosezentrum-meidling/",
+    "google_category": "Radiologe",
+    "domain": "diagnostikum.at",
+    "address": "Meidlinger Hauptstraße 7/9, 1120 Wien, Österreich",
+    "phone": "+43 1 8133381",
+    "lat": 48.1823859,
+    "lng": 16.3303131,
+    "status": "YES",
+    "evidence_quote": "With the DEXA Scan, we also determine the exact composition of your body as the basis for the right workout, the right diet and your health... DEXA Grease Measurement provides this accurate analysis, creating the best possible conditions to define and track your individual health goals... DEXA Scan gilt als genaueste Möglichkeit, sowohl Knochendichte als auch den Körperfettanteil zu messen... Messung des Fettanteils und der Muskelmasse im Körper."
+  }
+]

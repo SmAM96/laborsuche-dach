@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bioscientia Labor Berlin",
+    "website": "https://bioscientia.de/",
+    "google_category": "Medizinisches Labor",
+    "domain": "bioscientia.de",
+    "address": "Siemensdamm 50, 13629 Berlin, Deutschland",
+    "phone": "+49 30 48526100",
+    "lat": 52.5350419,
+    "lng": 13.2741359,
+    "status": "YES",
+    "evidence_quote": "In unserem Direktlabor in Gießen können Sie online einen Termin buchen und die von Ihnen gewünschten Laborwerte bestimmen lassen. Eine Überweisung von einem Arzt ist hierfür nicht notwendig."
+  },
+  {
+    "name": "Aware Lab Berlin Mitte",
+    "website": "https://www.aware.app/",
+    "google_category": "Medizinisches Labor",
+    "domain": "aware.app",
+    "address": "Rosenthaler Str. 7a, 10119 Berlin, Deutschland",
+    "phone": "",
+    "lat": 52.528194,
+    "lng": 13.4023847,
+    "status": "YES",
+    "evidence_quote": "Du brauchst keinen Arzttermin, keine ärztliche Bescheinigung – einfach online buchen und in unserem Labor vorbeikommen."
+  },
+  {
+    "name": "meineLaborwerte | Spandau",
+    "website": "https://www.meinelaborwerte.com/",
+    "google_category": "Öffentliches Gesundheitszentrum",
+    "domain": "meinelaborwerte.com",
+    "address": "Neue Bergstraße 6A, 13585 Berlin, Deutschland",
+    "phone": "+49 30 3309673",
+    "lat": 52.5354172,
+    "lng": 13.1993583,
+    "status": "YES",
+    "evidence_quote": "Gewünschte Untersuchungen anfordern. Wir kommen zum vereinbarten Termin für die Blutabnahme zu Dir."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Training and Diagnostics",
+    "website": "http://www.training-and-diagnostics.ch/",
+    "google_category": "Sportmedizinische Klinik",
+    "domain": "training-and-diagnostics.ch",
+    "address": "Seebahnstrasse 89, 8003 Zürich, Schweiz",
+    "phone": "+41 43 928 70 77",
+    "lat": 47.3713396,
+    "lng": 8.5225724,
+    "status": "YES",
+    "evidence_quote": "DXA/DEXA Messung der Körperzusammensetzung (Goldstandardverfahren) DXA/DEXA (dual energy x-ray absorptiometry) gilt bei Fachleuten als Referenzmethode/Goldstandard Methode zur Bestimmung der Körperzusammensetzung... Die Ganzkörperbeurteilung mit DXA bietet eine einzigartige Möglichkeit zur nicht-invasiven Messung von mageren und fetten Gewebekomponenten, einschliesslich dem gesundheitlich relevanten viszeralen Fett, Prozent Fett, magerer Gewebemasse und dem Verhältnis von androidem und gynoidem Fett."
+  },
+  {
+    "name": "Personal Training Zürich | VAULT | Personal trainer Zürich",
+    "website": "https://www.vaulttraining.ch/",
+    "google_category": "Personal Trainer",
+    "domain": "vaulttraining.ch",
+    "address": "Brandschenkestrasse 150, 8002 Zürich, Schweiz",
+    "phone": "+41 78 337 73 77",
+    "lat": 47.3645686,
+    "lng": 8.5252263,
+    "status": "YES",
+    "evidence_quote": "HOCHMODERNE TECHNOLOGIE Gold standard body composition (DEXA scan) to track progress..."
+  },
+  {
+    "name": "fitexpert",
+    "website": "http://www.fitexpert.ch/",
+    "google_category": "Personal Trainer",
+    "domain": "fitexpert.ch",
+    "address": "Hegibachstrasse 34, 8032 Zürich, Schweiz",
+    "phone": "+41 77 402 89 13",
+    "lat": 47.3625293,
+    "lng": 8.5629565,
+    "status": "YES",
+    "evidence_quote": "Wir bestimmen die Knochen-, Fett- und Muskelmasse mit Bioimpedanz oder dem wissenschaftlichen Goldstandard: DEXA-Scan. Er liefert grammgenaue Messwerte, probieren Sie es aus! ... Mit sehr schwacher Röntgenstrahlung wird Ihr Körper abgescannt und im Abbild können dann die drei Kompartimente Knochen-, Muskel- und Fettmasse grammgenau berechnet werden."
+  }
+]

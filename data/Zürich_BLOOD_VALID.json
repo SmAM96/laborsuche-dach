@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Walk-in Labor Albisriederplatz Zürich",
+    "website": "http://www.walkin-labor.ch/",
+    "google_category": "Medizinisches Labor",
+    "domain": "walkin-labor.ch",
+    "address": "Albisriederstrasse 5, 8003 Zürich, Schweiz",
+    "phone": "+41 43 434 81 40",
+    "lat": 47.3779574,
+    "lng": 8.5097004,
+    "status": "YES",
+    "evidence_quote": "In unserem Walk-in Labor können Sie kostengünstige Laboranalysen durchführen lassen – auf eigenen Wunsch oder auf Verordnung Ihres Hausarztes."
+  },
+  {
+    "name": "MEDICA Medizinische Laboratorien AG",
+    "website": "https://medica.ch/",
+    "google_category": "Medizinisches Labor",
+    "domain": "medica.ch",
+    "address": "Wolfbachstrasse 17, 8032 Zürich, Schweiz",
+    "phone": "+41 44 269 99 99",
+    "lat": 47.370636,
+    "lng": 8.5512536,
+    "status": "YES",
+    "evidence_quote": "Sämtliche Analysen, die ohne ärztlichen Auftrag durchgeführt werden, können nur gegen Kartenzahlung und Twint durchgeführt werden. Die Befunde werden per Post oder E-Mail versandt."
+  },
+  {
+    "name": "LAB TO GO",
+    "website": "https://labtogo.ch/",
+    "google_category": "Labor",
+    "domain": "labtogo.ch",
+    "address": "Falkenstrasse 14, 8008 Zürich, Schweiz",
+    "phone": "+41 44 250 50 00",
+    "lat": 47.3649111,
+    "lng": 8.5477628,
+    "status": "YES",
+    "evidence_quote": "Bei LAB TO GO kannst du selbstbestimmt und proaktiv Laboranalysen und Bluttests durchführen lassen."
+  },
+  {
+    "name": "Z-Point powered by ZetLab",
+    "website": "https://zpoint.ch/",
+    "google_category": "Medizinisches Labor",
+    "domain": "zpoint.ch",
+    "address": "Uraniastrasse 31, 8001 Zürich, Schweiz",
+    "phone": "+41 43 888 62 92",
+    "lat": 47.3734618,
+    "lng": 8.5359742,
+    "status": "YES",
+    "evidence_quote": "Laboraufträge, die ohne ärztliche Anordnung durchgeführt werden, können nicht über die Krankenkasse abgerechnet werden."
+  },
+  {
+    "name": "Analytica",
+    "website": "http://www.analytica.ch/",
+    "google_category": "Medizinisches Labor",
+    "domain": "analytica.ch",
+    "address": "Falkenstrasse 14, 8008 Zürich, Schweiz",
+    "phone": "+41 44 250 50 50",
+    "lat": 47.3649259,
+    "lng": 8.5477943,
+    "status": "YES",
+    "evidence_quote": "Bei LAB TO GO können Laboranalysen und Bluttests als Selbstzahler (keine Kassenleistung) beauftragt werden."
+  }
+]

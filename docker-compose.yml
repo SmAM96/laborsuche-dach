@@ -1,0 +1,34 @@
+services:
+  # --- 1. The Backend API ---
+  backend:
+    build: ./backend
+    container_name: laborsuche_backend
+    ports:
+      - '8000:8000'
+    volumes:
+      # Maps your local data folder to the container
+      - ./data:/app/data:z
+    environment:
+      - DATA_DIR=/app/data
+    restart: always
+
+  # --- 2. The Frontend UI ---
+  frontend:
+    build: ./frontend
+    container_name: laborsuche_frontend
+    ports:
+      - '3000:80' # Localhost:3000 -> Container:80 (Nginx)
+    depends_on:
+      - backend
+
+  # --- 3. The Scraper (Optional) ---
+  scraper:
+    build: ./scraper
+    container_name: laborsuche_scraper
+    profiles: ['tools'] # Won't start automatically
+    volumes:
+      - ./data:/app/data:z
+    env_file:
+      - .env
+    stdin_open: true
+    tty: true

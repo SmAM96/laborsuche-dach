@@ -1,0 +1,4 @@
+apify-client
+openai
+pandas
+tenacity
