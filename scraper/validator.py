@@ -52,6 +52,7 @@ STRICT DECISION RULES (keine Heuristiken)
   Tests beauftragen können (Synonyme ok: "ohne ärztliche Verordnung", "ohne Arzt", "Direktauftrag",
   "Patientenauftrag", "Direktlabor", "ohne Überweisungsschein").
 - NO wenn explizit steht: nur mit Überweisung / nur ärztliche Anforderung / Zuweiser/Einsender-only / Auftrag durch Arzt.
+- NO wenn alle Angebote, die sich ausschließlich auf folgende Themen beziehen: covid, testzentrum, schnelltest, pcr, corona, impfen
 - QUESTIONABLE wenn:
   
   - es wie ein Service für Ärzte/Kooperationspartner wirkt, ohne klare Patienten-Selbstbeauftragung.

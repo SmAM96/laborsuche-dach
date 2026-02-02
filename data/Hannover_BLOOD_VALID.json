@@ -10,17 +10,5 @@
     "lng": 9.738871,
     "status": "YES",
     "evidence_quote": "Das Direktlabor befindet sich im Erdgeschoß unseres Gebäudes. Viele Menschen nutzen bereits unseren direkten Laborservice um in angenehmer Atmosphäre schnell und unkompliziert Labowerte bestimmen zu lassen. Die gewünschten Laboruntersuchungen lassen sich hierbei ganz individuell zusammenstellen."
-  },
-  {
-    "name": "Testzentrum CoviQuick am Vinzenzkrankenhaus",
-    "website": "https://coviquick.de/",
-    "google_category": "Medizinisches Labor",
-    "domain": "coviquick.de",
-    "address": "Lange-Feld-Straße 31, 30559 Hannover, Deutschland",
-    "phone": "+49 511 10569704",
-    "lat": 52.3586598,
-    "lng": 9.814812,
-    "status": "YES",
-    "evidence_quote": "Einfache Online-Buchungfür die keine ärztliche Überweisung benötigt wird"
   }
 ]
